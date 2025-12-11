@@ -58,7 +58,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             onClick={() => scrollToSection('overview')}
           >
             <img 
-              src="/images/hsg-logo.png" 
+              src="/fredericksburg-resort-proposal/images/hsg-logo.png" 
               alt="Houston Strategy Group Logo" 
               className="h-12 md:h-32 w-auto object-contain"
             />
